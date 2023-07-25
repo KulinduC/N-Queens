@@ -2,8 +2,8 @@
 Solving n-queens problem using forking and recursion
 
 Proper command line usage 
-gcc -Wall -Werror n-queens.c 
 
+gcc -Wall -Werror n-queens.c 
 
 ./a.out n m
 
